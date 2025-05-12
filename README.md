@@ -1,4 +1,5 @@
-Hierárquicos / aglomerativos
+# Hierárquicos / aglomerativos
+
 Algumas competências:
 
 - Compreender os métodos de agrupamento aglomerativo e hierárquico
